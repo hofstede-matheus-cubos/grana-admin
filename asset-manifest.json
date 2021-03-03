@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/grana-admin/static/css/main.95dbc9a0.chunk.css",
-    "main.js": "/grana-admin/static/js/main.4d864898.chunk.js",
-    "main.js.map": "/grana-admin/static/js/main.4d864898.chunk.js.map",
+    "main.js": "/grana-admin/static/js/main.c1090304.chunk.js",
+    "main.js.map": "/grana-admin/static/js/main.c1090304.chunk.js.map",
     "runtime-main.js": "/grana-admin/static/js/runtime-main.e884df44.js",
     "runtime-main.js.map": "/grana-admin/static/js/runtime-main.e884df44.js.map",
     "static/js/2.3e13ed00.chunk.js": "/grana-admin/static/js/2.3e13ed00.chunk.js",
@@ -20,6 +20,6 @@
     "static/js/runtime-main.e884df44.js",
     "static/js/2.3e13ed00.chunk.js",
     "static/css/main.95dbc9a0.chunk.css",
-    "static/js/main.4d864898.chunk.js"
+    "static/js/main.c1090304.chunk.js"
   ]
 }
