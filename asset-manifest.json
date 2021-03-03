@@ -1,25 +1,25 @@
 {
   "files": {
-    "main.css": "/grana-admin/static/css/main.95dbc9a0.chunk.css",
-    "main.js": "/grana-admin/static/js/main.04641de5.chunk.js",
-    "main.js.map": "/grana-admin/static/js/main.04641de5.chunk.js.map",
-    "runtime-main.js": "/grana-admin/static/js/runtime-main.e884df44.js",
-    "runtime-main.js.map": "/grana-admin/static/js/runtime-main.e884df44.js.map",
-    "static/js/2.3e13ed00.chunk.js": "/grana-admin/static/js/2.3e13ed00.chunk.js",
-    "static/js/2.3e13ed00.chunk.js.map": "/grana-admin/static/js/2.3e13ed00.chunk.js.map",
-    "static/js/3.cbfd5540.chunk.js": "/grana-admin/static/js/3.cbfd5540.chunk.js",
-    "static/js/3.cbfd5540.chunk.js.map": "/grana-admin/static/js/3.cbfd5540.chunk.js.map",
-    "index.html": "/grana-admin/index.html",
-    "static/css/main.95dbc9a0.chunk.css.map": "/grana-admin/static/css/main.95dbc9a0.chunk.css.map",
-    "static/js/2.3e13ed00.chunk.js.LICENSE.txt": "/grana-admin/static/js/2.3e13ed00.chunk.js.LICENSE.txt",
-    "static/media/login.css": "/grana-admin/static/media/login-bg.af9df279.png",
-    "static/media/logo.2582a8f1.png": "/grana-admin/static/media/logo.2582a8f1.png",
-    "static/media/profile.0b816fd7.png": "/grana-admin/static/media/profile.0b816fd7.png"
+    "main.css": "./static/css/main.ea4133b7.chunk.css",
+    "main.js": "./static/js/main.3a35706d.chunk.js",
+    "main.js.map": "./static/js/main.3a35706d.chunk.js.map",
+    "runtime-main.js": "./static/js/runtime-main.d8892059.js",
+    "runtime-main.js.map": "./static/js/runtime-main.d8892059.js.map",
+    "static/js/2.9e464f40.chunk.js": "./static/js/2.9e464f40.chunk.js",
+    "static/js/2.9e464f40.chunk.js.map": "./static/js/2.9e464f40.chunk.js.map",
+    "static/js/3.cbfd5540.chunk.js": "./static/js/3.cbfd5540.chunk.js",
+    "static/js/3.cbfd5540.chunk.js.map": "./static/js/3.cbfd5540.chunk.js.map",
+    "index.html": "./index.html",
+    "static/css/main.ea4133b7.chunk.css.map": "./static/css/main.ea4133b7.chunk.css.map",
+    "static/js/2.9e464f40.chunk.js.LICENSE.txt": "./static/js/2.9e464f40.chunk.js.LICENSE.txt",
+    "static/media/login.css": "./static/media/login-bg.af9df279.png",
+    "static/media/logo.2582a8f1.png": "./static/media/logo.2582a8f1.png",
+    "static/media/profile.0b816fd7.png": "./static/media/profile.0b816fd7.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.e884df44.js",
-    "static/js/2.3e13ed00.chunk.js",
-    "static/css/main.95dbc9a0.chunk.css",
-    "static/js/main.04641de5.chunk.js"
+    "static/js/runtime-main.d8892059.js",
+    "static/js/2.9e464f40.chunk.js",
+    "static/css/main.ea4133b7.chunk.css",
+    "static/js/main.3a35706d.chunk.js"
   ]
 }
